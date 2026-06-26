@@ -7,7 +7,6 @@ import UrgentCare from "@/components/UrgentCare";
 import Founders from "@/components/Founders";
 import Mission from "@/components/Mission";
 import Location from "@/components/Location";
-import EmailCapture from "@/components/EmailCapture";
 import Footer from "@/components/Footer";
 import MobileCTA from "@/components/MobileCTA";
 import SkipLink from "@/components/SkipLink";
@@ -31,7 +30,6 @@ const Index = () => {
           <Founders />
           <Mission />
           <Location />
-          <EmailCapture />
         </main>
         <Footer />
         <MobileCTA />
