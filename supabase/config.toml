@@ -1,0 +1,7 @@
+project_id = "hizeogdcfpcwzlqrrlxd"
+
+[functions.crm-webhook]
+verify_jwt = false
+
+[functions.meet-greet-webhook]
+verify_jwt = false

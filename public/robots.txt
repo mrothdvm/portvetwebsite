@@ -1,0 +1,41 @@
+# General crawlers
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Google crawlers
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing crawler
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# AI Training Bots - Explicitly allow
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Social media crawlers
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+# Sitemap
+Sitemap: https://port.vet/sitemap.xml
