@@ -215,6 +215,20 @@ const Footer = () => {
                       <div className="text-xs text-red-300/70">Pet care tips & info</div>
                     </div>
                   </a>
+                  <a href="https://www.yelp.com/biz/port-of-la-animal-er-wilmington" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-3 rounded-lg bg-gradient-to-r from-rose-500/20 to-red-600/20 border border-rose-400/30 hover:from-rose-500/30 hover:to-red-600/30 transition-all duration-200 hover:scale-105" aria-label="Read our reviews on Yelp - Opens in new window">
+                    <div className="w-5 h-5 text-rose-200 flex items-center justify-center font-bold text-xs" aria-hidden="true">Y</div>
+                    <div>
+                      <div className="text-sm font-medium text-rose-200">Yelp</div>
+                      <div className="text-xs text-rose-300/70">Read our reviews</div>
+                    </div>
+                  </a>
+                  <a href="https://www.google.com/search?q=Port+of+LA+Animal+ER+reviews" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 p-3 rounded-lg bg-gradient-to-r from-blue-500/20 to-green-500/20 border border-blue-400/30 hover:from-blue-500/30 hover:to-green-500/30 transition-all duration-200 hover:scale-105" aria-label="Read our Google reviews - Opens in new window">
+                    <div className="w-5 h-5 text-blue-200 flex items-center justify-center font-bold text-xs" aria-hidden="true">G</div>
+                    <div>
+                      <div className="text-sm font-medium text-blue-200">Google</div>
+                      <div className="text-xs text-blue-300/70">See our reviews</div>
+                    </div>
+                  </a>
                 </div>
               </div>
 
