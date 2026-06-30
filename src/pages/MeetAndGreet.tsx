@@ -180,7 +180,7 @@ const MeetAndGreet = () => {
               <CardTitle>Modern Facility</CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="text-muted-foreground">Tour our new emergency facility in the Port of Las Angelas!</p>
+              <p className="text-muted-foreground">Tour our new emergency facility in the Port of Los Angeles!</p>
             </CardContent>
           </Card>
           
