@@ -18,7 +18,8 @@ const Header = () => {
     { label: "Our Doctors", id: "founders" },
     { label: "Mission", id: "mission" },
     { label: "Location", id: "location" },
-    { label: "Meet & Greet", href: "/meet-and-greet" }
+    { label: "Meet & Greet", href: "/meet-and-greet" },
+    { label: "Specials", href: "/specials" }
   ];
 
   return (
